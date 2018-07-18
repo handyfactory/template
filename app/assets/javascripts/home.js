@@ -1,0 +1,13 @@
+//= require plugins
+//= require functions
+//= require jquery.themepunch.tools.min.js
+//= require jquery.themepunch.revolution.min
+//= require revolution.extension.video.min
+//= require revolution.extension.slideanims.min
+//= require revolution.extension.actions.min
+//= require revolution.extension.layeranimation.min
+//= require revolution.extension.kenburn.min
+//= require revolution.extension.navigation.min
+//= require revolution.extension.migration.min
+//= require revolution.extension.parallax.min
+//= require rsconfig
